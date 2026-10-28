@@ -1,0 +1,10 @@
+fastapi;
+uvicorn; 
+python-dotenv; 
+langchain; 
+langchain-groq;
+langchain-community; 
+tavily-python;
+pdfplumber;
+python-multipart; 
+pydantic
